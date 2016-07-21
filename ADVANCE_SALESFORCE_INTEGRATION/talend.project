@@ -351,4 +351,5 @@
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_lfbM0k97EeaI89DQBa-eKg" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_l_i3UE97EeaI89DQBa-eKg" login="bowens3@nd.edu" firstName="Brenden" lastName="Owens" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_nSAA4U9_Eea6zcRbWvTgbA" login="brich@nd.edu" firstName="Brandon" lastName="Rich" type="DI" additionnalData="{}"/>
 </xmi:XMI>
