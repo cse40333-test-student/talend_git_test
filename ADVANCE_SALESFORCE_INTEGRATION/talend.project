@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_lfbM0U97EeaI89DQBa-eKg" label="Advance Salesforce Integration" description="" language="java" technicalLabel="ADVANCE_SALESFORCE_INTEGRATION" creationDate="2016-07-21T14:42:35.314-0400" author="_lfbM0k97EeaI89DQBa-eKg" productVersion="Talend Data Services Platform-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/cse40333-test-student/talend_git_test.git&quot;,&quot;login&quot;:&quot;Brandon.Rich@hotmail.com&quot;,&quot;passwd&quot;:&quot;yK6sHBrQ5CXygYe45af4vg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_lfbM0k97EeaI89DQBa-eKg" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
