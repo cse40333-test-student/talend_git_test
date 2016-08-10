@@ -111,7 +111,7 @@
       <elementValue elementRef="SCHEMA_COLUMN" value="Id"/>
       <elementValue elementRef="ARRAY" value="Numeric.sequence(&quot;s1&quot; ,1 ,1 )"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="First"/>
-      <elementValue elementRef="ARRAY" value="TalendString.getAsciiRandomString(10 )"/>
+      <elementValue elementRef="ARRAY" value="TalendDataGenerator.getFirstName()"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="Last"/>
       <elementValue elementRef="ARRAY" value="TalendString.getAsciiRandomString(6 )"/>
     </elementParameter>
